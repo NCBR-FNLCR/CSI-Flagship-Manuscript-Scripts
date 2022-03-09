@@ -1,2 +1,2 @@
-# ClinSeq_1k_proband_workflows
+# CSI Flagship Manuscript Scripts
 Pipeline snakemake workflow and analysis scripts
